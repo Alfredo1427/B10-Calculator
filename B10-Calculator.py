@@ -1,4 +1,4 @@
-pip install weibull
+#!pip install weibull
 
 import weibull
 
